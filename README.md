@@ -1,6 +1,8 @@
 
 # Тезис Черча (тестовая система)
 
+Задания: [Клац](https://docs.google.com/document/d/17dpjFF7Hvy8LJ8nsuiGhaohUHbUnEs_erUZxf5Vn_nU/edit?usp=sharing)
+
 ## Структура проекта
 ```
 .
